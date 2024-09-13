@@ -65,7 +65,7 @@ I follow modern software development practices, including:
 I am always interested in collaborating on innovative projects or discussing new technologies. Feel free to connect with me:
 
 - **Email**: priyaranjansubhankar@gmail.com
-- **LinkedIn**:Click Here to Go linkedIn Site [https://www.linkedin.com/in/subhankar-priyaranjan-rout-606a211a2/]
-- **Profile** : Click here to See Profile [https://subhankarpriyaranjan.github.io/Portfolio/]
+- **LinkedIn**:[Click Here to Go linkedIn Site](https://www.linkedin.com/in/subhankar-priyaranjan-rout-606a211a2/)
+- **Profile** : [Click here to See Profile](https://subhankarpriyaranjan.github.io/Portfolio/)
 
 Let’s build something great together!
