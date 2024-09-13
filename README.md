@@ -1,47 +1,70 @@
-# # Hi, I'm Subhankar Priyaranjan 👋
+# Subhankar Priyaranjan
 
-### Full Stack Developer | **Backend Developer at Smaket Solutions**
+### Full Stack Developer | Backend Specialist
 
-I am a passionate Full Stack Developer with expertise in creating robust backend systems and modern web applications. My primary tech stack includes Java, Spring Boot, C#, .NET for backend development, and React and Thymeleaf for front-end work. Currently, I work as a Backend Developer at **Smaket Solutions** in Bhubaneswar, where I am involved in building scalable and efficient applications.
-
----
-
-### 🛠️ Skills & Expertise
-
-- **Languages**: Java, C#, JavaScript
-- **Backend**: Spring Boot, .NET, REST APIs
-- **Frontend**: React, Thymeleaf, Vite
-- **Database**: MySQL,Oracle, SQL Server
-- **Dev Tools**: Git, Docker, Kubernetes
-- **Others**: Tailwind CSS, Vite, Maven, Gradle
+Welcome to my GitHub profile! I’m Subhankar Priyaranjan, a Full Stack Developer with a passion for designing and building scalable, efficient web applications. I specialize in backend technologies but have strong frontend development skills to create seamless, full-stack solutions.
 
 ---
 
-### 📈 What I Do
+### 🔧 Technical Skills
 
-- **Backend Development**: Building robust APIs and backend services using Java and C#.
-- **Frontend Development**: Creating responsive web applications with React .
-- **Full Stack Projects**: Delivering end-to-end solutions, handling both backend and frontend aspects.
-  
----
-
-### 🌱 Currently Learning
-
-- Microservices architecture
-- Cloud deployment (AWS, Azure)
-- Python with AI & ML Libraries
+- **Languages**: Java, C#, JavaScript/TypeScript
+- **Backend Technologies**: 
+  - **Java**: Spring Boot, Hibernate
+  - **C#**: .NET Core, ASP.NET,ADO.NET
+- **Frontend Technologies**: React, Thymeleaf, Tailwind CSS
+- **Databases**: MySQL, Oracle, SQL Server
+- **DevOps Tools**:  Git, Bitbucket
+- **project Management Tool**:Jira,Confluence
+- **Cloud Platforms**: AWS
 
 ---
 
-### 🚀 Projects
+### 🏢 Professional Experience
 
-Check out some of my work on GitHub [here](https://github.com/SubhankarPriyaranjan).
+**Backend Developer @ [Smaket Solutions](https://smaket.ai)**  
+_Bhubaneswar, India_  
+*July 2024 – Present*
+
+- Develop and maintain backend APIs using  C# (.NET) to support our product.
+- Collaborate with cross-functional teams to deliver high-quality software solutions for a variety of industries.
+- Implement security best practices, and cloud-based solutions.
 
 ---
 
-### 📫 Let's Connect!
+### 🖥️ Development Approach
 
-- **LinkedIn**: [linkedin.com/in/subhankarpriyaranjan](https://www.linkedin.com/in/subhankarpriyaranjan)
+I follow modern software development practices, including:
+
+- **Clean Architecture**: Writing maintainable, scalable, and testable code.
+- **Agile Methodologies**: Continuous integration, delivery, and feedback-driven development.
+
+
+---
+
+### 🌱 Currently Exploring
+
+- **Microservices**: Deep diving into distributed systems and service-oriented architecture.
+- **Cloud Infrastructure**: Expanding my knowledge in deploying and managing applications on AWS and Azure.
+- **Containerization**: Utilizing Docker and Kubernetes to orchestrate scalable deployments.
+
+---
+
+### 🚀 Featured Projects
+
+- **Expense Management App - SahiHisab**  
+  A modern expense management tool built with React and Tailwind CSS and Backend with C# (.Net) designed for individual and group-based tracking of daily and monthly expenses.
+
+- **Smart Contact Manager**  
+  A comprehensive contact management system built with Java, Spring Boot, and Thymeleaf for efficient contact organization and management.
+
+---
+
+### 📫 Get in Touch
+
+I am always interested in collaborating on innovative projects or discussing new technologies. Feel free to connect with me:
+
 - **Email**: priyaranjansubhankar@gmail.com
+- **LinkedIn**: [linkedin.com/in/subhankarpriyaranjan](https://www.linkedin.com/in/subhankarpriyaranjan)
 
-Feel free to reach out if you'd like to collaborate or discuss tech!
+Let’s build something great together!
