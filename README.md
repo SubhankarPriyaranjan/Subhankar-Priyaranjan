@@ -1,6 +1,6 @@
 # Subhankar Priyaranjan
 
-### Full Stack Developer | Backend Specialist
+### Full Stack Developer | Backend Developer
 
 Welcome to my GitHub profile! I’m Subhankar Priyaranjan, a Full Stack Developer with a passion for designing and building scalable, efficient web applications. I specialize in backend technologies but have strong frontend development skills to create seamless, full-stack solutions.
 
