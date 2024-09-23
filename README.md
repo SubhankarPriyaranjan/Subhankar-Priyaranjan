@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m Subhankar Priyaranjan, a Full Stack Develope
 
 **Backend Developer @ [Smaket Solutions](https://smaket.ai)**  
 _Bhubaneswar, India_  
-*July 2024 – Present*
+*December 2023 – Present*
 
 - Develop and maintain backend APIs using  C# (.NET) to support our product.
 - Collaborate with cross-functional teams to deliver high-quality software solutions for a variety of industries.
